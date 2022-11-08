@@ -1,0 +1,53 @@
+@font-face {
+    font-family: sweet sans;
+    font-display: swap;
+    src: url(../../../fonts/Sweet-Sans.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: sweet sans bold;
+    font-display: swap;
+    src: url(../../../fonts/Sweet-Sans-Bold.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: password;
+    font-display: swap;
+    src: url(../../../fonts/Password.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: sweet sans medium;
+    font-display: swap;
+    src: url(../../../fonts/Sweet-Sans-Medium.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: druk web;
+    font-display: swap;
+    src: url(../../../fonts/Druk-Medium-Web.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: beyond_infinityregular;
+    font-display: swap;
+    src: url(../../../fonts/beyond_infinity-webfont.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: universlt-condensedbold;
+    font-display: swap;
+    src: url(../../../fonts/UniversLTCondensedBold.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: universltpro-lightcond;
+    font-display: swap;
+    src: url(../../../fonts/UniversLTProLightCond.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: icons;
+    font-display: swap;
+    src: url(../../../fonts/icons.woff2) format("woff2")
+}
